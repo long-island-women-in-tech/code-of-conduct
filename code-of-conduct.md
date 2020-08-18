@@ -37,6 +37,7 @@ This community is mostly not a place for commercial activity such as recruiting 
 
 * #jobs - you can share jobs you're hiring for here.
 * #thehappenings - you can share events you are running here.
+* #promote-a-business - you can promote a Long Island company here.
 
 If you join this community to just sell things and not contribute and learn, the community will quickly notice. Do not post commercial or marketing of your business or someone elses business without the consent of the Administrators. 
 
@@ -62,13 +63,14 @@ As Administrators, we will seek to resolve conflicts peacefully and in a manner 
 
 ## Administrators
 
-The administrators of Long Island Women in Tech as of February 28, 2019:
+The administrators of Long Island Women in Tech as of August 18, 2020:
 
 * @shana (LaShana Breland - Chief Slack Officer and Director, Long Island Women in Tech)
 * @stefana (Stefana Muller - President, Long Island Women in Tech)
-* @samantha.seymour (Samantha Seymour - Director at Large, Long Island Women in Tech)
 * @Jean Hannon (Jean Hannon - Acting Treasurer and Director, Long Island Women in Tech)
-* @Lee'Ann Burgess (Lee'Ann Burgess - Director of Marketing, Long Island Women in Tech)
+* @Lee'Ann (Lee'Ann Burgess - Director of Marketing, Long Island Women in Tech)
+* @Vandy (Vandana Adulkar - Volunteer Slack Admin)
+* @Vicky (Vicky Chanci - Volunteer Slack Admin)
 
 ## Thanks
 
